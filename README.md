@@ -17,5 +17,5 @@ This is the back end build for an application that helps shop owners big and sma
 
 
 ## Resources
-- [VideoLink]()
+- [VideoLink](https://drive.google.com/file/d/1ZqQRxBeFly-MjldZ9Bjlksgd8PvMIL9M/view)
 - [Repository](https://github.com/selaprivette/EcommerceBackEnd)
